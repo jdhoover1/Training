@@ -474,3 +474,5 @@ analyze <- function(filename, output = NULL) {
   }
 }
 
+Today is Wednesday. 
+
